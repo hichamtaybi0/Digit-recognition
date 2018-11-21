@@ -1,4 +1,4 @@
-'''.
+'''
 about 3 minutes per epoch on a GEFORCE 940MX GPU.
 Gets to 99.19% test accuracy after 15 epochs
 '''
